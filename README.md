@@ -1,4 +1,4 @@
-# **WOC 7.0 Project Repository**
+# **PROJECT WOC 7.0**
 
 This repository contains the project developed during **Winter of Code 7.0 (WOC 7.0)**.
 
