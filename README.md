@@ -1,6 +1,7 @@
 # WOC 7.0 Project Repository
 
-This repository contains the project developed during Winter of Code 7.0 (WOC 7.0). It is organized into the following main folders:
+This repository contains the project developed during Winter of Code 7.0 (WOC 7.0).
+It is organized into the following main folders:
 
 **Algorithms**: Contains various algorithms implemented throughout the project. Each algorithm is well-documented and includes complete source code.
 
