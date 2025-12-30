@@ -12,4 +12,4 @@ It is organized into the following main folders:
 
 Additionally, a comprehensive **project report** is included, detailing the full development process, methodologies used, and results obtained.
 
-The repository is structured to provide a clear understanding of the project’s progression — from algorithm development to model training and final predictions. It serves as a complete resource for exploring the work and outcomes achieved during **WOC 7.0**.
+The repository is structured to provide a clear understanding of the project’s progression - from algorithm development to model training and final predictions. It serves as a complete resource for exploring the work and outcomes achieved during **WOC 7.0**.
